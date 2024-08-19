@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Kelly Ray - QA Lead"
+    email: "kelly@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

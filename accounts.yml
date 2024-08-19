@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Pavan Pramod Petkar - Senior Software Developer At Coforge Limited"
+    email: "pavanpetkar7120@gmail.com"
+  onCallSupport:
+    - 8975878310
+    - 9284366437
